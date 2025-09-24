@@ -14,7 +14,7 @@ A simple project demonstrating **credit risk modelling** with logistic regressio
 ## Run
 python -m jupyterlab
 
-Then open the notebooks in order:
+Then open and run the notebooks in order:
 
 - 01_credit_risk_preprocessing.ipynb
 - 02_pd_logistic_regression.ipynb
